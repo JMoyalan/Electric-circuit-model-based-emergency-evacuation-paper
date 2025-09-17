@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "Optimal Control of Emergency Evacuations Leveraging Equivalent Circuit Models"
+authors:
+  - family-names: "Moyalan"
+    given-names: "Joseph"
+  - family-names: "de Castro"
+    given-names: "Ricardo"
+  - family-names: "Feng"
+    given-names: "Shuang"
+  - family-names: "Tang"
+    given-names: "Xuchang"
+  - family-names: "Lin"
+    given-names: "Xinfan"
+  - family-names: "Moura"
+    given-names: "Scott"
+date-released: 2025-09-17
+version: "1.0"
+url: "https://github.com/JMoyalan/Electric-circuit-model-based-emergency-evacuation-paper/blob/main/ECM%20based%20emergency%20evacuation.pdf"
+preferred-citation:
+  type: article
+  title: "Optimal Control of Emergency Evacuations Leveraging Equivalent Circuit Models"
+  authors:
+    - family-names: "Moyalan"
+      given-names: "Joseph"
+    - family-names: "de Castro"
+      given-names: "Ricardo"
+    - family-names: "Feng"
+      given-names: "Shuang"
+    - family-names: "Tang"
+      given-names: "Xuchang"
+    - family-names: "Lin"
+      given-names: "Xinfan"
+    - family-names: "Moura"
+      given-names: "Scott"
+  year: 2025
+  journal: "Preprint on GitHub"
